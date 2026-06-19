@@ -35,6 +35,9 @@ Cada transacción guarda la siguiente información:
 #### 💳 Formulario de pago
 <img width="720" height="1650" src="https://github.com/user-attachments/assets/1b32e451-d035-47ba-a7b0-8ae6fa48ab54" />
 
+#### Validaciones
+<img width="720" height="1650" alt="image" src="https://github.com/user-attachments/assets/6055e464-bb60-49ec-8bf4-938503a68c41" />
+
 #### ✍️ Proceso de pago
 <img width="720" height="1650" src="https://github.com/user-attachments/assets/344f05e1-c314-4715-aa66-a1dbddd54632" />
 

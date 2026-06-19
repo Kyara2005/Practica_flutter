@@ -44,4 +44,7 @@ Cada transacción guarda la siguiente información:
 #### 📊 Historial
 <img width="720" height="1650" src="https://github.com/user-attachments/assets/6e514f53-31a3-4984-940b-07c535d48ec8" />### 
 
+#### Supabase
+<img width="1588" height="255" alt="image" src="https://github.com/user-attachments/assets/1eeee880-4f10-477d-b986-88e047820793" />
+
 

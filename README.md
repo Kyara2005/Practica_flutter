@@ -30,7 +30,7 @@ Cada transacción guarda la siguiente información:
 <img width="720" height="1650" src="https://github.com/user-attachments/assets/a3510211-6959-4011-bdc5-021a69df8632" />
 
 #### 📄 Resumen
-<img width="720" height="1650" src="https://github.com/user-attachments/assets/088816b1-219d-47f5-b9d37-996ab8dd6ab5" />
+<img width="720" height="1650" alt="image" src="https://github.com/user-attachments/assets/f581ff9c-e54c-4e48-bfbd-80d685341ab3" />
 
 #### 💳 Formulario de pago
 <img width="720" height="1650" src="https://github.com/user-attachments/assets/1b32e451-d035-47ba-a7b0-8ae6fa48ab54" />
@@ -42,23 +42,6 @@ Cada transacción guarda la siguiente información:
 <img width="720" height="1650" src="https://github.com/user-attachments/assets/69080a40-067a-459c-b9f1-ab32e6b62392" />
 
 #### 📊 Historial
-<img width="720" height="1650" src="https://github.com/user-attachments/assets/6e514f53-31a3-4984-940b-07c535d48ec8" />### 📸 Capturas de pantalla
+<img width="720" height="1650" src="https://github.com/user-attachments/assets/6e514f53-31a3-4984-940b-07c535d48ec8" />### 
 
-#### 🛍️ Productos
-<img width="720" height="1650" src="https://github.com/user-attachments/assets/a3510211-6959-4011-bdc5-021a69df8632" />
-
-#### 📄 Resumen
-<img width="720" height="1650" src="https://github.com/user-attachments/assets/088816b1-219d-47f5-b9d37-996ab8dd6ab5" />
-
-#### 💳 Formulario de pago
-<img width="720" height="1650" src="https://github.com/user-attachments/assets/1b32e451-d035-47ba-a7b0-8ae6fa48ab54" />
-
-#### ✍️ Proceso de pago
-<img width="720" height="1650" src="https://github.com/user-attachments/assets/344f05e1-c314-4715-aa66-a1dbddd54632" />
-
-#### ⚖️ Resultado
-<img width="720" height="1650" src="https://github.com/user-attachments/assets/69080a40-067a-459c-b9f1-ab32e6b62392" />
-
-#### 📊 Historial
-<img width="720" height="1650" src="https://github.com/user-attachments/assets/6e514f53-31a3-4984-940b-07c535d48ec8" />
 

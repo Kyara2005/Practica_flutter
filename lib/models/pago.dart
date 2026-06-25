@@ -7,6 +7,8 @@ class Pago {
   final String ultimos4;
   final String estado;
   final DateTime fecha;
+  final double? latitud;
+  final double? longitud;
 
   Pago({
     required this.producto,
@@ -15,5 +17,7 @@ class Pago {
     required this.ultimos4,
     required this.estado,
     required this.fecha,
+    this.latitud,
+    this.longitud,
   });
 }

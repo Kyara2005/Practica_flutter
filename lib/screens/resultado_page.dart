@@ -1,4 +1,5 @@
 ﻿import 'package:flutter/material.dart';
+import 'ExtrasPage.dart';
 
 import '../models/pago.dart';
 
@@ -39,6 +40,17 @@ class ResultadoPage extends StatelessWidget {
             const SizedBox(height: 8),
             Text('Fecha: ${pago.fecha.toLocal()}'.split('.').first, textAlign: TextAlign.center),
             const SizedBox(height: 32),
+            //Agregar un boton para ir a extras page
+
+            ElevatedButton(
+              onPressed: () {
+                Navigator.pushReplacement(
+                  context,
+                  MaterialPageRoute(builder: (context) => const ExtrasPage()),
+                );
+              },
+              child: const Text('Adjuntar comprobante'),
+            ),
             ElevatedButton(
               onPressed: () {
                 Navigator.popUntil(context, (route) => route.isFirst);
